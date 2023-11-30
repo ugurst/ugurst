@@ -1,5 +1,19 @@
 <h1 align="center">Hi 👋, I'm Ugur Safa Topal</h1>
-<h3 align="center">Data Analyst</h3>
+<h3 align="center">Data Analyst
+
+🔍 My Technical Expertise:
+
+* Programming Languages: I am proficient in Python and SQL for data analysis and business intelligence projects. I use these languages for data processing, analysis, and visualization.
+
+* Data Visualization and Reporting: Experienced in transforming complex data sets into understandable and interactive reports using Power BI and Qlik Sense.
+
+* Data Storage and Processing: I have extensive knowledge in ETL processes and data warehousing (DWH) systems. I offer effective solutions in database management and optimization.
+
+* Business Processes and Management Tools: I efficiently manage projects and team collaborations using Scrum and Agile methodologies. Additionally, I actively use Git for version control.
+
+* Other Competencies: Proficient in advanced analysis techniques in Excel, data management and business intelligence on Microsoft platforms, web scraping, and API usage.
+
+These technical skills make me a strong specialist in the fields of data analysis and business intelligence. I aim to add value in my projects using these skills and continuously learn new technologies to enhance my expertise.</h3>
 
 - 📫 How to reach me **ugursafa8080@gmail.com**
 
