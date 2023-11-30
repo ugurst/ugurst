@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ugur Safa Toapl</h1>
+<h1 align="center">Hi 👋, I'm Ugur Safa Topal</h1>
 <h3 align="center">Data Analyst</h3>
 
 - 📫 How to reach me **ugursafa8080@gmail.com**
